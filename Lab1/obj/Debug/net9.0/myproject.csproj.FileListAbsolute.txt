@@ -1,0 +1,14 @@
+D:\Uroki\DesignSoft_SUDA_SMOTRI\Lab1\bin\Debug\net9.0\myproject.exe
+D:\Uroki\DesignSoft_SUDA_SMOTRI\Lab1\bin\Debug\net9.0\myproject.deps.json
+D:\Uroki\DesignSoft_SUDA_SMOTRI\Lab1\bin\Debug\net9.0\myproject.runtimeconfig.json
+D:\Uroki\DesignSoft_SUDA_SMOTRI\Lab1\bin\Debug\net9.0\myproject.dll
+D:\Uroki\DesignSoft_SUDA_SMOTRI\Lab1\bin\Debug\net9.0\myproject.pdb
+D:\Uroki\DesignSoft_SUDA_SMOTRI\Lab1\obj\Debug\net9.0\myproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uroki\DesignSoft_SUDA_SMOTRI\Lab1\obj\Debug\net9.0\myproject.AssemblyInfoInputs.cache
+D:\Uroki\DesignSoft_SUDA_SMOTRI\Lab1\obj\Debug\net9.0\myproject.AssemblyInfo.cs
+D:\Uroki\DesignSoft_SUDA_SMOTRI\Lab1\obj\Debug\net9.0\myproject.csproj.CoreCompileInputs.cache
+D:\Uroki\DesignSoft_SUDA_SMOTRI\Lab1\obj\Debug\net9.0\myproject.dll
+D:\Uroki\DesignSoft_SUDA_SMOTRI\Lab1\obj\Debug\net9.0\refint\myproject.dll
+D:\Uroki\DesignSoft_SUDA_SMOTRI\Lab1\obj\Debug\net9.0\myproject.pdb
+D:\Uroki\DesignSoft_SUDA_SMOTRI\Lab1\obj\Debug\net9.0\myproject.genruntimeconfig.cache
+D:\Uroki\DesignSoft_SUDA_SMOTRI\Lab1\obj\Debug\net9.0\ref\myproject.dll
